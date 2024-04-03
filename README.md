@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello
 
-<!--
-**a-tabaza/a-tabaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's Abdulrahman
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience in production natural language processing systems for
+pharmaceutical and financial domains, search, information retrieval and reranking
+systems, retrieval augmented generation, multimodal generative AI, AI autonomous
+agents, conversational AI.
+- I'm particularly interested in research, academia and educating
+- I can do MLOps
+- I can use PyTorch, JAX, Tensorflow, FastAPI, Docker and CUDA
+- I can quantize, compress and optimize models for deployment
+- I can resist the urge to use emojis in my profile README
