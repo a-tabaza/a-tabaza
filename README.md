@@ -3,7 +3,7 @@
 My name's Abdulrahman
 
 I have experience in production natural language processing systems for
-pharmaceutical and financial domains, search, information retrieval and reranking
+the pharmaceutical and financial domains, search, information retrieval and reranking
 systems, retrieval augmented generation, multimodal generative AI, AI autonomous
 agents, conversational AI.
 - I'm particularly interested in research, academia and educating
