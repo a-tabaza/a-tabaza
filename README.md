@@ -1,1 +1,1 @@
-"The future depends on some graduate student who is deeply suspicious of everything I have said." - Geoffrey Hinton
+eternally on the hunt for my next nerdsnipe, my first ever was representation learning and vector spaces
