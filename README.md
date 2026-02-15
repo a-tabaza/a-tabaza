@@ -1,2 +1,1 @@
-im very very bitter about ai assisted code at the moment, so you will hear me complain about coding agents and the collective decline of critical thought.
-rage aside, i like information retrieval, infra, deployment, deep learning, and passion fueled hyperfixations.
+i feel [very self righteous](./assets/mefr.jpg) becase im very bitter about ai assisted code at the moment, so you will hear me complain about coding agents and the collective decline of critical thought. but rage aside, i like information retrieval, infra, deployment, deep learning, and passion fueled hyperfixations.
